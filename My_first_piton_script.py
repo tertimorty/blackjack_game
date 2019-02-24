@@ -1,4 +1,3 @@
-print("Hello world")
-print(1+1)
-
-coordinates = {x,y,z, 251,74,-10}
+'''
+Most likely this will be file that contains all the objects or something like that
+'''
